@@ -1,5 +1,49 @@
-Windows 
+#Git/ GitHUB
 
-cd/ =base diretório 
-dir = listar pastas 
-mkdir =criar pastas 
+Monitora diferentes versões de um arquivo
+
+#Windows                   #Linux
+
+**cd/** =base diretório = **cd/**
+**dir** = listar pastas = **ls**
+**mkdir** =criar pastas = **mkdir**
+**cd..**= retrocede 1 Nv.= **cd..**
+cls (CTROL+L)= limpa=
+**TAB**= atalho para completar nomes
+ls -a = lista arquivos ocultos 
+
+
+
+#Lista de Comandos
+
+echo text>text.txt ** cria arquivo**
+del **deleta arquivos**
+git clone **clona o que esta no githun para o pc**
+ls **lista**
+git remote add origin **adiciona à origem no github**
+git status **verifica os commits e faz updates**
+git push origin master **faz com que os commits apareçam no github**
+git init **inicia um repositório**
+git commit -m "nome" **faz o commit**
+git add **adiciona**
+
+#Markdown 
+**html humanizado 
+
+#Sha1
+**Conjunto de caracteres de 40 digitos encriptados**
+
+#Blobs 
+**Metadados do tipo objeto, guarda só o Sha1**
+
+#THREES
+**Pode apontar para um Blob ou uma Tree, armazena os Blobs, apresenta Sha1 e nome**
+
+#Commits 
+**Pode apontar para Three, parente, autor, mensagem; se muda Blobs ou Three muda todo o Commit; serva para verificar se houve alteração**
+
+
+
+
+
+
