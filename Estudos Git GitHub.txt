@@ -1,0 +1,5 @@
+Windows 
+
+cd/ =base diretório 
+dir = listar pastas 
+mkdir =criar pastas 
