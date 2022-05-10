@@ -10,7 +10,7 @@ Monitora diferentes versões de um arquivo
 **cd..**= retrocede 1 Nv.= **cd..**
 cls (CTROL+L)= limpa=
 **TAB**= atalho para completar nomes
-ls -a = lista arquivos ocultos 
+**ls -a** = lista arquivos ocultos 
 
 
 
